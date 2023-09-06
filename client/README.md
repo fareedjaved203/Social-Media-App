@@ -1,8 +1,37 @@
-# React + Vite
+# Dinner Dash
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Description
 
-Currently, two official plugins are available:
+- A minimal Social Media Web App built using React and Local Storage. A user can login, view all posts, view his/her posts,comment on a post, create a post, delete post, delete his/her comment from a post.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Developer Setup:
+
+Following are the steps to run this React application on your system.
+
+- Prerequisite: Node js (18.15.0)
+- Clone the git repository
+
+```sh
+$ git clone https://github.com/fareedjaved203/Social-Media-App.git
+```
+
+### Technologies used:
+
+- React: 18.2.0
+- Nodejs: 18.15.0
+- Bootstrap: 5.3.1
+
+- Install all dependencies
+
+```sh
+$ cd client
+$ npm install
+```
+
+- Good to go. Now run your application
+
+Go into client and run the following command:
+
+```sh
+$ npm start
+```
