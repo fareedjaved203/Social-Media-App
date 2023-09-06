@@ -1,0 +1,19 @@
+li button {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+li:hover {
+  border: none;
+  margin: 0;
+  padding: 0;
+  transform: none;
+  border-bottom: none;
+}
+li button:hover {
+  border-radius: 0;
+}
+.navbar {
+  background-color: green;
+  height: 60px !important;
+}
